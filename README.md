@@ -15,6 +15,18 @@ Ce projet comprend plusieurs guides documentaires:
 ## Description
 Application Android en Kotlin utilisant le protocole SOAP pour gérer des comptes bancaires.
 
+---
+
+## Video
+
+
+
+https://github.com/user-attachments/assets/25dcccb0-af71-45aa-8894-bde161325d5b
+
+
+
+---
+
 ## Fonctionnalités
 - ✅ Afficher la liste des comptes bancaires
 - ✅ Ajouter un nouveau compte (COURANT ou EPARGNE)
